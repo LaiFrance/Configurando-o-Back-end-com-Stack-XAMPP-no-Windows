@@ -5,6 +5,8 @@ A Stack XAMPP é uma pilha de software que inclui o sistema operacional Windows,
 ## Passo 1: Download do XAMPP
 
 Primeiro, você precisa baixar o instalador do XAMPP. Você pode fazer isso visitando o site oficial do XAMPP [aqui](https://www.apachefriends.org/index.html).
+![image](https://github.com/LaiFrance/Stack-Wamp---configurando-o-back-end/assets/91226847/a931e0e3-b39a-42f7-a67e-2653766bd714)
+
 
 ## Passo 2: Instalação do XAMPP
 
